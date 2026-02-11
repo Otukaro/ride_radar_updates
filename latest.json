@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "build": 5,
+  "build": 6,
   "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk",
-  "notes": "Test update build 5."
+  "notes": "Test update build 6 making the update visible for skip"
 }
 
