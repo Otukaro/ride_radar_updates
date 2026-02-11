@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
   "build": 1,
-  "apk_url": "https://otukaro.github.io/ride_radar_updates/app-release.apk",
+  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk",
   "notes": "First test update package."
 }
