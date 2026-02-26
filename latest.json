@@ -1,6 +1,6 @@
 {
   "version": "0.1.2",
-  "build": 16,
+  "build": 17,
   "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk",
-  "notes": "Trip recording + Trips list"
+  "notes": "Fix update check in Settings (uses public manifest)"
 }
