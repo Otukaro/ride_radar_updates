@@ -1,7 +1,6 @@
 {
-  "version": "0.1.0",
-  "build": 6,
+  "version": "0.1.2",
+  "build": 16,
   "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk",
-  "notes": "Test update build 6 making the update visible for skip"
+  "notes": "Trip recording + Trips list"
 }
-
