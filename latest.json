@@ -1,6 +1,6 @@
 {
-  "version": "0.1.4",
-  "build": 21,
-  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=21",
-  "notes": "Automated signed release and wireless update setup"
+  "version": "0.1.5",
+  "build": 22,
+  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=22",
+  "notes": "Ride Radar update"
 }
