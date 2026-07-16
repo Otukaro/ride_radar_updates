@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "build": 24,
-  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=24",
-  "notes": "advanced traffic map integration"
+  "version": "0.1.8",
+  "build": 25,
+  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=25",
+  "notes": "Ride Radar update"
 }
