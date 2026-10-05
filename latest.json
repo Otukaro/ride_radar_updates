@@ -1,6 +1,6 @@
 {
-  "version": "0.1.11",
-  "build": 28,
-  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=28",
-  "notes": "Visual corner preview, smoother route distance, and GPS quality checks. Voice callouts are not enabled in this prototype."
+  "version": "0.1.12",
+  "build": 29,
+  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=29",
+  "notes": "OpenStreetMap restored on route maps; CARTO hidden. Includes visual corner previews and GPS quality checks."
 }
