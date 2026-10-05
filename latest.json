@@ -1,6 +1,6 @@
 {
-  "version": "0.1.12",
-  "build": 29,
-  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=29",
-  "notes": "OpenStreetMap restored on route maps; CARTO hidden. Includes visual corner previews and GPS quality checks."
+  "version": "0.1.13",
+  "build": 30,
+  "apk_url": "https://raw.githubusercontent.com/Otukaro/ride_radar_updates/main/app-release.apk?b=30",
+  "notes": "Full Google route and ETA preserved from map entry; more thorough live routing, fresh routes at trip start, and visible update status. Corner previews remain visual only."
 }
